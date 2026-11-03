@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MPHolubLab15</string>
+    <string name="tab_studies">studies</string>
+    <string name="tab_hobbies">hobbies</string>
+    <string name="tab_about_me">about me</string>
+    <string name="studies_text">Навчаюся за спеціальністю «Комп’ютерні науки».</string>
+    <string name="hobbies_text">Захоплююся програмуванням, комп’ютерними технологіями та штучним інтелектом.</string>
+    <string name="about_me_text">Студент, цікавлюся розробкою програмного забезпечення.</string>
 </resources>
